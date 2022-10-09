@@ -2,7 +2,7 @@
 # dev5-portfolio Chelsea Van Breda
 [Link to my portfolio](https://github.com/Chelsea-VB/DEV5-myportfolio)
 
-![amazing gif](https://tenor.com/view/this-is-fine-fire-house-burning-okay-gif-5263684)
+![amazing gif](https://media.tenor.com/-kZOB16tELEAAAAC/this-is-fine-fire.gif)
 
 # An overview:
 Lab | Link to the repository | Extra Info
